@@ -1,0 +1,16 @@
+<?= $this->include('modals/modal1.php'); ?>
+<?= $this->include('modals/modal2.php'); ?>
+<?= $this->include('modals/modal3.php'); ?>
+<?= $this->include('modals/modal4.php'); ?>
+<?= $this->include('modals/modal5.php'); ?>
+<?= $this->include('modals/modal6.php'); ?>
+<?= $this->include('modals/modal7.php'); ?>
+<?= $this->include('modals/modal8.php'); ?>
+<?= $this->include('modals/modal9.php'); ?>
+<?= $this->include('modals/modal10.php'); ?>
+<?= $this->include('modals/modal11.php'); ?>
+<?= $this->include('modals/modal12.php'); ?>
+<?= $this->include('modals/modal13.php'); ?>
+<?= $this->include('modals/modal14.php'); ?>
+<?= $this->include('modals/modal15.php'); ?>
+<?= $this->include('modals/modal16.php'); ?>
